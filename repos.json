@@ -2,8 +2,8 @@
     {
     "kernelSource": {
       "name": "DogDay-KernelSU",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/alioth-r-oss",
+      "branch": "alioth-r-oss",
       "device": "thyme"
     },
     "withKernelSU": true,
